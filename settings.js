@@ -56,7 +56,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Ovabotz" //namabot kalian
+global.botname = "ㅤ" //namabot kalian
 global.ownername = "V" //nama kalian
 global.myweb = "https://chat.whatsapp.com/KqGx272nHhV6lW1qxLmNOp" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng?sub_confirmation=1" //bebas asal jan hapus
@@ -73,7 +73,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'Ova Botz ' + botname //sticker wm ubah
-global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
+global.author = 'ㅤ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
